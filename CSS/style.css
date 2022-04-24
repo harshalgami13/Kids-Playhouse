@@ -345,6 +345,7 @@ a {
 
 .section3 .section3-content .boxes {
     border-radius: 15px;
+    margin: 10px 0;
     overflow: hidden;
     transition: 0.3s ease-in-out;
 }
@@ -476,6 +477,7 @@ a {
 
 .section5 .box {
     padding: 5px 5%;
+    margin: 10px 0;
 }
 
 .section5 .teachers-images {
@@ -655,13 +657,12 @@ a {
 
 .section7 .contact-address .columns {
     display: flex;
-    height: 20px;
     align-content: center;
     text-align: center;
     align-items: center;
     flex-direction: column;
     font-family: var(--ubuntu-font);
-    margin: 15px 0;
+    /* margin: 15px 0; */
     font-size: 2.8vh;
 }
 
